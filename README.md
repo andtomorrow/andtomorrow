@@ -5,4 +5,5 @@ I am sharing what I learn on my craft **[blog](https://www.craft.do/s/XUSqE9unZV
  - some tech article translations
  - some of (responsive) web layout trials made up with well-known poetic works.
  - snapshots of coffee, etc.
-#### Please visit and share your thoughts by adding comments.
+
+Please visit and _share your thoughts_ by adding comments.
