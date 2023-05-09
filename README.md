@@ -1,8 +1,8 @@
 ## Hi,
 I am sharing what I learn on my [craft blog](https://www.craft.do/s/XUSqE9unZVgfAx) concerning web development. 
 #### You will find:
- - parts of official documentation with explanation in Korean
+ - parts of official documentation explained in Korean language
  - some tech article translations
- - some of my web (responsive) layout trials made up with poetic works.
+ - some of (responsive) web layout trials made up with well-known poetic works.
  - snapshots of coffee, etc.
-#### Please visit and share your thoughts. Any comment will be appreciated.
+#### Please visit and share your thoughts by adding comments.
