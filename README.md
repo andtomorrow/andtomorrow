@@ -1,5 +1,5 @@
 ## Hi,
-I am sharing what I learn on my craft **[blog](https://www.craft.do/s/XUSqE9unZVgfAx)** concerning web development. 
+I am sharing what I learn on my blog **[andtomorrow.craft.me](https://andtomorrow.craft.me)** concerning web development. 
 You will find:
  - parts of official documentation explained in Korean language
  - some tech article translations
